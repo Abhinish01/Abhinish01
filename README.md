@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Abhinish01
+- I am pursuing my B.Tech from IIT JAMMU.
 - 👀 I’m interested in Coding, Management
 - 🌱 I’m currently learning DSA (C++),WebD
 - 💞️ I’m looking for an opportunity in Management Sector
